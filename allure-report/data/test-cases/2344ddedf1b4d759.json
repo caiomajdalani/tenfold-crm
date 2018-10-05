@@ -1,0 +1,81 @@
+{
+  "uid" : "2344ddedf1b4d759",
+  "name" : "when invalid IP",
+  "fullName" : "Phone System should not have user credentials.when invalid IP",
+  "historyId" : "b99a5033b58e7b19ae1caead4130c6f5",
+  "time" : {
+    "start" : 1493065113694,
+    "stop" : 1493065123704,
+    "duration" : 10010
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusDetails" : {
+    "message" : "Expected true to be false, 'User name should be not visible'.",
+    "trace" : "Error: Failed expectation\n    at Object.afterEach (/Users/fernandosqa/Projects/tenfold/qa-engineer-test/tenfold-crm/spec/phoneSystem.spec.js:85:48)\n    at /usr/local/lib/node_modules/protractor/node_modules/jasminewd2/index.js:110:25\n    at new ManagedPromise (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:1067:7)\n    at ControlFlow.promise (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2396:12)\n    at schedulerExecute (/usr/local/lib/node_modules/protractor/node_modules/jasminewd2/index.js:95:18)\n    at TaskQueue.execute_ (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2970:14)\n    at TaskQueue.executeNext_ (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2953:27)\n    at asyncRun (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2860:25)\n    at /usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:676:7",
+    "flaky" : false
+  },
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusDetails" : {
+      "message" : "Expected true to be false, 'User name should be not visible'.",
+      "trace" : "Error: Failed expectation\n    at Object.afterEach (/Users/fernandosqa/Projects/tenfold/qa-engineer-test/tenfold-crm/spec/phoneSystem.spec.js:85:48)\n    at /usr/local/lib/node_modules/protractor/node_modules/jasminewd2/index.js:110:25\n    at new ManagedPromise (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:1067:7)\n    at ControlFlow.promise (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2396:12)\n    at schedulerExecute (/usr/local/lib/node_modules/protractor/node_modules/jasminewd2/index.js:95:18)\n    at TaskQueue.execute_ (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2970:14)\n    at TaskQueue.executeNext_ (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2953:27)\n    at asyncRun (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2860:25)\n    at /usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:676:7",
+      "flaky" : false
+    },
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ec8525840c6546ea",
+      "name" : "Screenshot",
+      "source" : "ec8525840c6546ea.png",
+      "type" : "image/png",
+      "size" : 45095
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Phone System should not have user credentials"
+  }, {
+    "name" : "testClass",
+    "value" : "Phone System should not have user credentials"
+  }, {
+    "name" : "testMethod",
+    "value" : "when invalid IP"
+  }, {
+    "name" : "package",
+    "value" : "Phone System should not have user credentials"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "statusDetailsSafe" : {
+    "message" : "Expected true to be false, 'User name should be not visible'.",
+    "trace" : "Error: Failed expectation\n    at Object.afterEach (/Users/fernandosqa/Projects/tenfold/qa-engineer-test/tenfold-crm/spec/phoneSystem.spec.js:85:48)\n    at /usr/local/lib/node_modules/protractor/node_modules/jasminewd2/index.js:110:25\n    at new ManagedPromise (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:1067:7)\n    at ControlFlow.promise (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2396:12)\n    at schedulerExecute (/usr/local/lib/node_modules/protractor/node_modules/jasminewd2/index.js:95:18)\n    at TaskQueue.execute_ (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2970:14)\n    at TaskQueue.executeNext_ (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2953:27)\n    at asyncRun (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2860:25)\n    at /usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:676:7",
+    "flaky" : false
+  },
+  "statusMessage" : {
+    "present" : true
+  },
+  "source" : "2344ddedf1b4d759.json",
+  "parameterValues" : [ ]
+}

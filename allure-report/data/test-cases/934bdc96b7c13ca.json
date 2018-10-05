@@ -1,0 +1,81 @@
+{
+  "uid" : "934bdc96b7c13ca",
+  "name" : "when select Sugar",
+  "fullName" : "CRM Setup check if save button is displayed.when select Sugar",
+  "historyId" : "3165b64f3f27ef806023027a2154a7d7",
+  "time" : {
+    "start" : 1493064998166,
+    "stop" : 1493065003531,
+    "duration" : 5365
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusDetails" : {
+    "message" : "Expected false to be true, 'Save Button should be enable'.",
+    "trace" : "Error: Failed expectation\n    at Object.afterEach (/Users/fernandosqa/Projects/tenfold/qa-engineer-test/tenfold-crm/spec/crmSetup.spec.js:90:42)\n    at /usr/local/lib/node_modules/protractor/node_modules/jasminewd2/index.js:110:25\n    at new ManagedPromise (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:1067:7)\n    at ControlFlow.promise (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2396:12)\n    at schedulerExecute (/usr/local/lib/node_modules/protractor/node_modules/jasminewd2/index.js:95:18)\n    at TaskQueue.execute_ (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2970:14)\n    at TaskQueue.executeNext_ (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2953:27)\n    at asyncRun (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2860:25)\n    at /usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:676:7",
+    "flaky" : false
+  },
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusDetails" : {
+      "message" : "Expected false to be true, 'Save Button should be enable'.",
+      "trace" : "Error: Failed expectation\n    at Object.afterEach (/Users/fernandosqa/Projects/tenfold/qa-engineer-test/tenfold-crm/spec/crmSetup.spec.js:90:42)\n    at /usr/local/lib/node_modules/protractor/node_modules/jasminewd2/index.js:110:25\n    at new ManagedPromise (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:1067:7)\n    at ControlFlow.promise (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2396:12)\n    at schedulerExecute (/usr/local/lib/node_modules/protractor/node_modules/jasminewd2/index.js:95:18)\n    at TaskQueue.execute_ (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2970:14)\n    at TaskQueue.executeNext_ (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2953:27)\n    at asyncRun (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2860:25)\n    at /usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:676:7",
+      "flaky" : false
+    },
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "3baba2abf7c04152",
+      "name" : "Screenshot",
+      "source" : "3baba2abf7c04152.png",
+      "type" : "image/png",
+      "size" : 44068
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "CRM Setup check if save button is displayed"
+  }, {
+    "name" : "testClass",
+    "value" : "CRM Setup check if save button is displayed"
+  }, {
+    "name" : "testMethod",
+    "value" : "when select Sugar"
+  }, {
+    "name" : "package",
+    "value" : "CRM Setup check if save button is displayed"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "statusDetailsSafe" : {
+    "message" : "Expected false to be true, 'Save Button should be enable'.",
+    "trace" : "Error: Failed expectation\n    at Object.afterEach (/Users/fernandosqa/Projects/tenfold/qa-engineer-test/tenfold-crm/spec/crmSetup.spec.js:90:42)\n    at /usr/local/lib/node_modules/protractor/node_modules/jasminewd2/index.js:110:25\n    at new ManagedPromise (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:1067:7)\n    at ControlFlow.promise (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2396:12)\n    at schedulerExecute (/usr/local/lib/node_modules/protractor/node_modules/jasminewd2/index.js:95:18)\n    at TaskQueue.execute_ (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2970:14)\n    at TaskQueue.executeNext_ (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2953:27)\n    at asyncRun (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2860:25)\n    at /usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:676:7",
+    "flaky" : false
+  },
+  "statusMessage" : {
+    "present" : true
+  },
+  "source" : "934bdc96b7c13ca.json",
+  "parameterValues" : [ ]
+}

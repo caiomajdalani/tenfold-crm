@@ -1,0 +1,68 @@
+{
+  "uid" : "59e6dc0d66d03a5c",
+  "name" : "when select Asterisk and type IP",
+  "fullName" : "Phone System should have user credentials.when select Asterisk and type IP",
+  "historyId" : "b5f8d9902ac4cad3e10b2bf46653b743",
+  "time" : {
+    "start" : 1493065066132,
+    "stop" : 1493065075885,
+    "duration" : 9753
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : false
+  },
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "de31e702d665e491",
+      "name" : "Screenshot",
+      "source" : "de31e702d665e491.png",
+      "type" : "image/png",
+      "size" : 45827
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Phone System should have user credentials"
+  }, {
+    "name" : "testClass",
+    "value" : "Phone System should have user credentials"
+  }, {
+    "name" : "testMethod",
+    "value" : "when select Asterisk and type IP"
+  }, {
+    "name" : "package",
+    "value" : "Phone System should have user credentials"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "statusDetailsSafe" : {
+    "flaky" : false
+  },
+  "statusMessage" : {
+    "present" : false
+  },
+  "source" : "59e6dc0d66d03a5c.json",
+  "parameterValues" : [ ]
+}

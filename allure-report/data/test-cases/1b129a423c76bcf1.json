@@ -1,0 +1,68 @@
+{
+  "uid" : "1b129a423c76bcf1",
+  "name" : "when select Oracle",
+  "fullName" : "CRM Setup check if save button is displayed.when select Oracle",
+  "historyId" : "75e1a85bfd5ccdfb36ac1c19eb4b9511",
+  "time" : {
+    "start" : 1493065003531,
+    "stop" : 1493065008883,
+    "duration" : 5352
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : false
+  },
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "71911b73554d49f",
+      "name" : "Screenshot",
+      "source" : "71911b73554d49f.png",
+      "type" : "image/png",
+      "size" : 37505
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "CRM Setup check if save button is displayed"
+  }, {
+    "name" : "testClass",
+    "value" : "CRM Setup check if save button is displayed"
+  }, {
+    "name" : "testMethod",
+    "value" : "when select Oracle"
+  }, {
+    "name" : "package",
+    "value" : "CRM Setup check if save button is displayed"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "statusDetailsSafe" : {
+    "flaky" : false
+  },
+  "statusMessage" : {
+    "present" : false
+  },
+  "source" : "1b129a423c76bcf1.json",
+  "parameterValues" : [ ]
+}

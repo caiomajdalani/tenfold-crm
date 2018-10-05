@@ -1,0 +1,81 @@
+{
+  "uid" : "322d0b1247255ff3",
+  "name" : "when select Dynamics",
+  "fullName" : "CRM Setup should have user credentials.when select Dynamics",
+  "historyId" : "743fd78d29b432b275e9da59e99c018b",
+  "time" : {
+    "start" : 1493064982226,
+    "stop" : 1493064987350,
+    "duration" : 5124
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusDetails" : {
+    "message" : "Expected false to be true, 'Email is should be visible'.",
+    "trace" : "Error: Failed expectation\n    at Object.afterEach (/Users/fernandosqa/Projects/tenfold/qa-engineer-test/tenfold-crm/spec/crmSetup.spec.js:53:37)\n    at /usr/local/lib/node_modules/protractor/node_modules/jasminewd2/index.js:110:25\n    at new ManagedPromise (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:1067:7)\n    at ControlFlow.promise (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2396:12)\n    at schedulerExecute (/usr/local/lib/node_modules/protractor/node_modules/jasminewd2/index.js:95:18)\n    at TaskQueue.execute_ (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2970:14)\n    at TaskQueue.executeNext_ (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2953:27)\n    at asyncRun (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2860:25)\n    at /usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:676:7",
+    "flaky" : false
+  },
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusDetails" : {
+      "message" : "Expected false to be true, 'Email is should be visible'.",
+      "trace" : "Error: Failed expectation\n    at Object.afterEach (/Users/fernandosqa/Projects/tenfold/qa-engineer-test/tenfold-crm/spec/crmSetup.spec.js:53:37)\n    at /usr/local/lib/node_modules/protractor/node_modules/jasminewd2/index.js:110:25\n    at new ManagedPromise (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:1067:7)\n    at ControlFlow.promise (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2396:12)\n    at schedulerExecute (/usr/local/lib/node_modules/protractor/node_modules/jasminewd2/index.js:95:18)\n    at TaskQueue.execute_ (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2970:14)\n    at TaskQueue.executeNext_ (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2953:27)\n    at asyncRun (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2860:25)\n    at /usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:676:7",
+      "flaky" : false
+    },
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "de7101e026024f2",
+      "name" : "Screenshot",
+      "source" : "de7101e026024f2.png",
+      "type" : "image/png",
+      "size" : 35415
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "CRM Setup should have user credentials"
+  }, {
+    "name" : "testClass",
+    "value" : "CRM Setup should have user credentials"
+  }, {
+    "name" : "testMethod",
+    "value" : "when select Dynamics"
+  }, {
+    "name" : "package",
+    "value" : "CRM Setup should have user credentials"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "statusDetailsSafe" : {
+    "message" : "Expected false to be true, 'Email is should be visible'.",
+    "trace" : "Error: Failed expectation\n    at Object.afterEach (/Users/fernandosqa/Projects/tenfold/qa-engineer-test/tenfold-crm/spec/crmSetup.spec.js:53:37)\n    at /usr/local/lib/node_modules/protractor/node_modules/jasminewd2/index.js:110:25\n    at new ManagedPromise (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:1067:7)\n    at ControlFlow.promise (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2396:12)\n    at schedulerExecute (/usr/local/lib/node_modules/protractor/node_modules/jasminewd2/index.js:95:18)\n    at TaskQueue.execute_ (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2970:14)\n    at TaskQueue.executeNext_ (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2953:27)\n    at asyncRun (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2860:25)\n    at /usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:676:7",
+    "flaky" : false
+  },
+  "statusMessage" : {
+    "present" : true
+  },
+  "source" : "322d0b1247255ff3.json",
+  "parameterValues" : [ ]
+}

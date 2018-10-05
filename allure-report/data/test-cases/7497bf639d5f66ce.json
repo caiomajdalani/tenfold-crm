@@ -1,0 +1,68 @@
+{
+  "uid" : "7497bf639d5f66ce",
+  "name" : "when select Generic SIP and type IP",
+  "fullName" : "Phone System should have user credentials.when select Generic SIP and type IP",
+  "historyId" : "223c0a1d963814ce24594d64a80dabff",
+  "time" : {
+    "start" : 1493065084277,
+    "stop" : 1493065094111,
+    "duration" : 9834
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : false
+  },
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d251a809c8b166bd",
+      "name" : "Screenshot",
+      "source" : "d251a809c8b166bd.png",
+      "type" : "image/png",
+      "size" : 46973
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Phone System should have user credentials"
+  }, {
+    "name" : "testClass",
+    "value" : "Phone System should have user credentials"
+  }, {
+    "name" : "testMethod",
+    "value" : "when select Generic SIP and type IP"
+  }, {
+    "name" : "package",
+    "value" : "Phone System should have user credentials"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "statusDetailsSafe" : {
+    "flaky" : false
+  },
+  "statusMessage" : {
+    "present" : false
+  },
+  "source" : "7497bf639d5f66ce.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,68 @@
+{
+  "uid" : "6683bc34a948b0a6",
+  "name" : "when select Zoho",
+  "fullName" : "CRM Setup check if save button is displayed.when select Zoho",
+  "historyId" : "b89036327e2ac8b5caca89ff9b7b07a",
+  "time" : {
+    "start" : 1493064992794,
+    "stop" : 1493064998166,
+    "duration" : 5372
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : false
+  },
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "c7d2a8177932cfcf",
+      "name" : "Screenshot",
+      "source" : "c7d2a8177932cfcf.png",
+      "type" : "image/png",
+      "size" : 37505
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "CRM Setup check if save button is displayed"
+  }, {
+    "name" : "testClass",
+    "value" : "CRM Setup check if save button is displayed"
+  }, {
+    "name" : "testMethod",
+    "value" : "when select Zoho"
+  }, {
+    "name" : "package",
+    "value" : "CRM Setup check if save button is displayed"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "statusDetailsSafe" : {
+    "flaky" : false
+  },
+  "statusMessage" : {
+    "present" : false
+  },
+  "source" : "6683bc34a948b0a6.json",
+  "parameterValues" : [ ]
+}

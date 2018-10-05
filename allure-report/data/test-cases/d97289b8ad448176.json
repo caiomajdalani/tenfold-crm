@@ -1,0 +1,81 @@
+{
+  "uid" : "d97289b8ad448176",
+  "name" : "when user fill incorrect password",
+  "fullName" : "CRM Login.when user fill incorrect password",
+  "historyId" : "d84db029225e9181d47f43c4f9732814",
+  "time" : {
+    "start" : 1493065046633,
+    "stop" : 1493065048482,
+    "duration" : 1849
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusDetails" : {
+    "message" : "Expected 'Unknow Error!' to equal 'Invalid password'.",
+    "trace" : "Error: Failed expectation\n    at Object.it (/Users/fernandosqa/Projects/tenfold/qa-engineer-test/tenfold-crm/spec/login.spec.js:25:37)\n    at /usr/local/lib/node_modules/protractor/node_modules/jasminewd2/index.js:110:25\n    at new ManagedPromise (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:1067:7)\n    at ControlFlow.promise (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2396:12)\n    at schedulerExecute (/usr/local/lib/node_modules/protractor/node_modules/jasminewd2/index.js:95:18)\n    at TaskQueue.execute_ (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2970:14)\n    at TaskQueue.executeNext_ (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2953:27)\n    at asyncRun (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2860:25)\n    at /usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:676:7",
+    "flaky" : false
+  },
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusDetails" : {
+      "message" : "Expected 'Unknow Error!' to equal 'Invalid password'.",
+      "trace" : "Error: Failed expectation\n    at Object.it (/Users/fernandosqa/Projects/tenfold/qa-engineer-test/tenfold-crm/spec/login.spec.js:25:37)\n    at /usr/local/lib/node_modules/protractor/node_modules/jasminewd2/index.js:110:25\n    at new ManagedPromise (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:1067:7)\n    at ControlFlow.promise (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2396:12)\n    at schedulerExecute (/usr/local/lib/node_modules/protractor/node_modules/jasminewd2/index.js:95:18)\n    at TaskQueue.execute_ (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2970:14)\n    at TaskQueue.executeNext_ (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2953:27)\n    at asyncRun (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2860:25)\n    at /usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:676:7",
+      "flaky" : false
+    },
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a25881a38e9b5ecd",
+      "name" : "Screenshot",
+      "source" : "a25881a38e9b5ecd.png",
+      "type" : "image/png",
+      "size" : 45819
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "CRM Login"
+  }, {
+    "name" : "testClass",
+    "value" : "CRM Login"
+  }, {
+    "name" : "testMethod",
+    "value" : "when user fill incorrect password"
+  }, {
+    "name" : "package",
+    "value" : "CRM Login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "statusDetailsSafe" : {
+    "message" : "Expected 'Unknow Error!' to equal 'Invalid password'.",
+    "trace" : "Error: Failed expectation\n    at Object.it (/Users/fernandosqa/Projects/tenfold/qa-engineer-test/tenfold-crm/spec/login.spec.js:25:37)\n    at /usr/local/lib/node_modules/protractor/node_modules/jasminewd2/index.js:110:25\n    at new ManagedPromise (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:1067:7)\n    at ControlFlow.promise (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2396:12)\n    at schedulerExecute (/usr/local/lib/node_modules/protractor/node_modules/jasminewd2/index.js:95:18)\n    at TaskQueue.execute_ (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2970:14)\n    at TaskQueue.executeNext_ (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2953:27)\n    at asyncRun (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2860:25)\n    at /usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:676:7",
+    "flaky" : false
+  },
+  "statusMessage" : {
+    "present" : true
+  },
+  "source" : "d97289b8ad448176.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,68 @@
+{
+  "uid" : "d9c63705d2903a8f",
+  "name" : "should Phone System list",
+  "fullName" : "Phone System.should Phone System list",
+  "historyId" : "a784adfcb90872d201ce2913c0184144",
+  "time" : {
+    "start" : 1493065057410,
+    "stop" : 1493065066131,
+    "duration" : 8721
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : false
+  },
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f7af727789ef2fe5",
+      "name" : "Screenshot",
+      "source" : "f7af727789ef2fe5.png",
+      "type" : "image/png",
+      "size" : 44272
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Phone System"
+  }, {
+    "name" : "testClass",
+    "value" : "Phone System"
+  }, {
+    "name" : "testMethod",
+    "value" : "should Phone System list"
+  }, {
+    "name" : "package",
+    "value" : "Phone System"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "statusDetailsSafe" : {
+    "flaky" : false
+  },
+  "statusMessage" : {
+    "present" : false
+  },
+  "source" : "d9c63705d2903a8f.json",
+  "parameterValues" : [ ]
+}

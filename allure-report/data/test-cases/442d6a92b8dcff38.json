@@ -1,0 +1,68 @@
+{
+  "uid" : "442d6a92b8dcff38",
+  "name" : "when select Mondago and type IP",
+  "fullName" : "Phone System should have user credentials.when select Mondago and type IP",
+  "historyId" : "134646ae2b1a5bd42a7c24cca031dc04",
+  "time" : {
+    "start" : 1493065094111,
+    "stop" : 1493065104033,
+    "duration" : 9922
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : false
+  },
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "eff4d491af4f1418",
+      "name" : "Screenshot",
+      "source" : "eff4d491af4f1418.png",
+      "type" : "image/png",
+      "size" : 46313
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Phone System should have user credentials"
+  }, {
+    "name" : "testClass",
+    "value" : "Phone System should have user credentials"
+  }, {
+    "name" : "testMethod",
+    "value" : "when select Mondago and type IP"
+  }, {
+    "name" : "package",
+    "value" : "Phone System should have user credentials"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "statusDetailsSafe" : {
+    "flaky" : false
+  },
+  "statusMessage" : {
+    "present" : false
+  },
+  "source" : "442d6a92b8dcff38.json",
+  "parameterValues" : [ ]
+}

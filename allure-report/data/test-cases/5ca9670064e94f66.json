@@ -1,0 +1,68 @@
+{
+  "uid" : "5ca9670064e94f66",
+  "name" : "should have CRMs list",
+  "fullName" : "CRM Setup.should have CRMs list",
+  "historyId" : "325558d2a7707923904d22b471c961fa",
+  "time" : {
+    "start" : 1493064953958,
+    "stop" : 1493064961404,
+    "duration" : 7446
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : false
+  },
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a67580cfbc7d32a8",
+      "name" : "Screenshot",
+      "source" : "a67580cfbc7d32a8.png",
+      "type" : "image/png",
+      "size" : 42586
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "CRM Setup"
+  }, {
+    "name" : "testClass",
+    "value" : "CRM Setup"
+  }, {
+    "name" : "testMethod",
+    "value" : "should have CRMs list"
+  }, {
+    "name" : "package",
+    "value" : "CRM Setup"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "statusDetailsSafe" : {
+    "flaky" : false
+  },
+  "statusMessage" : {
+    "present" : false
+  },
+  "source" : "5ca9670064e94f66.json",
+  "parameterValues" : [ ]
+}

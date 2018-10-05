@@ -1,0 +1,68 @@
+{
+  "uid" : "488b0082126624a5",
+  "name" : "successfully login",
+  "fullName" : "CRM Login.successfully login",
+  "historyId" : "4da00bc8224fb9b62a896863b893dc8",
+  "time" : {
+    "start" : 1493065044542,
+    "stop" : 1493065046632,
+    "duration" : 2090
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : false
+  },
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "acd890a12f05c2c0",
+      "name" : "Screenshot",
+      "source" : "acd890a12f05c2c0.png",
+      "type" : "image/png",
+      "size" : 34552
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "CRM Login"
+  }, {
+    "name" : "testClass",
+    "value" : "CRM Login"
+  }, {
+    "name" : "testMethod",
+    "value" : "successfully login"
+  }, {
+    "name" : "package",
+    "value" : "CRM Login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "statusDetailsSafe" : {
+    "flaky" : false
+  },
+  "statusMessage" : {
+    "present" : false
+  },
+  "source" : "488b0082126624a5.json",
+  "parameterValues" : [ ]
+}

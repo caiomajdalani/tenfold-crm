@@ -1,0 +1,18 @@
+{
+  "name": "protractor-es6",
+  "version": "0.0.1",
+  "devDependencies": {
+    "allure-commandline": "^1.5.0",
+    "faker": "^4.1.0",
+    "jasmine-allure-reporter": "^1.0.1",
+    "protractor": "^4.0.3"
+  },
+  "scripts": {
+    "updatewd": "node ./node_modules/protractor/bin/webdriver-manager update",
+    "test": "protractor protractor.conf.js",
+    "report": "allure generate --clean"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}

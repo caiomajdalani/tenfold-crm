@@ -1,0 +1,425 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "should have CRMs list",
+    "uid" : "5ca9670064e94f66",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1493064953958,
+      "stop" : 1493064961404,
+      "duration" : 7446
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "when select Salesforce",
+    "uid" : "2b581ce1a54a7e05",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1493064961405,
+      "stop" : 1493064966821,
+      "duration" : 5416
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "when select Zoho",
+    "uid" : "7a04537cff31494",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1493064966821,
+      "stop" : 1493064972031,
+      "duration" : 5210
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "when select Sugar",
+    "uid" : "a55645b5d94802a",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1493064972031,
+      "stop" : 1493064977143,
+      "duration" : 5112
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "when select Oracle",
+    "uid" : "a6dd9ee5b14dffc3",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1493064977143,
+      "stop" : 1493064982225,
+      "duration" : 5082
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "when select Dynamics",
+    "uid" : "322d0b1247255ff3",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1493064982226,
+      "stop" : 1493064987350,
+      "duration" : 5124
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "when select Salesforce",
+    "uid" : "b4447b6203bb9d16",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1493064987359,
+      "stop" : 1493064992794,
+      "duration" : 5435
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "when select Zoho",
+    "uid" : "6683bc34a948b0a6",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1493064992794,
+      "stop" : 1493064998166,
+      "duration" : 5372
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "when select Sugar",
+    "uid" : "934bdc96b7c13ca",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1493064998166,
+      "stop" : 1493065003531,
+      "duration" : 5365
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "when select Oracle",
+    "uid" : "1b129a423c76bcf1",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1493065003531,
+      "stop" : 1493065008883,
+      "duration" : 5352
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "when select Dynamics",
+    "uid" : "2e1a84828b711ceb",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1493065008883,
+      "stop" : 1493065013914,
+      "duration" : 5031
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "with success",
+    "uid" : "63c2f7aa0471c7e9",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1493065013918,
+      "stop" : 1493065019249,
+      "duration" : 5331
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "when user fill incorrect email",
+    "uid" : "8ea700e0e30ef199",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1493065019249,
+      "stop" : 1493065024585,
+      "duration" : 5336
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "when password should e at least six chars long",
+    "uid" : "ab01816aac561712",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1493065024585,
+      "stop" : 1493065029915,
+      "duration" : 5330
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "when user not fill user and password",
+    "uid" : "7a5749db6468922d",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1493065029915,
+      "stop" : 1493065035043,
+      "duration" : 5128
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "with success",
+    "uid" : "3ae39b6fb30bd6f8",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1493065035048,
+      "stop" : 1493065044540,
+      "duration" : 9492
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "successfully login",
+    "uid" : "488b0082126624a5",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1493065044542,
+      "stop" : 1493065046632,
+      "duration" : 2090
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "when user fill incorrect password",
+    "uid" : "d97289b8ad448176",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1493065046633,
+      "stop" : 1493065048482,
+      "duration" : 1849
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "when user not registered",
+    "uid" : "26568a0851bce0fc",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1493065048482,
+      "stop" : 1493065050283,
+      "duration" : 1801
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "when user not fill e-email",
+    "uid" : "d47f1aecb993236b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1493065050283,
+      "stop" : 1493065052061,
+      "duration" : 1778
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "when user not fill password",
+    "uid" : "d5194ea48a594486",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1493065052061,
+      "stop" : 1493065053857,
+      "duration" : 1796
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "when user not fill user and password",
+    "uid" : "c0f09d1f0e4f72f4",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1493065053858,
+      "stop" : 1493065055564,
+      "duration" : 1706
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "when password should e at least six chars long",
+    "uid" : "b545bdd8bf9a60c2",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1493065055564,
+      "stop" : 1493065057407,
+      "duration" : 1843
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "should Phone System list",
+    "uid" : "d9c63705d2903a8f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1493065057410,
+      "stop" : 1493065066131,
+      "duration" : 8721
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "when select Asterisk and type IP",
+    "uid" : "59e6dc0d66d03a5c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1493065066132,
+      "stop" : 1493065075885,
+      "duration" : 9753
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "when select Broadsoft and type IP",
+    "uid" : "afa1fda54931f4fa",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1493065075885,
+      "stop" : 1493065084277,
+      "duration" : 8392
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "when select Generic SIP and type IP",
+    "uid" : "7497bf639d5f66ce",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1493065084277,
+      "stop" : 1493065094111,
+      "duration" : 9834
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "when select Mondago and type IP",
+    "uid" : "442d6a92b8dcff38",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1493065094111,
+      "stop" : 1493065104033,
+      "duration" : 9922
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "when IP is a string",
+    "uid" : "8d190d2a7131eb4",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1493065104037,
+      "stop" : 1493065113694,
+      "duration" : 9657
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "when invalid IP",
+    "uid" : "2344ddedf1b4d759",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1493065113694,
+      "stop" : 1493065123704,
+      "duration" : 10010
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "with success",
+    "uid" : "3a3036f043affa97",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1493065123708,
+      "stop" : 1493065131131,
+      "duration" : 7423
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "when user back for CRM Setup Page",
+    "uid" : "e162b0a2d7f442fe",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1493065131131,
+      "stop" : 1493065140231,
+      "duration" : 9100
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "when user fill incorrect email",
+    "uid" : "86fcd06d68485c98",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1493065140232,
+      "stop" : 1493065149229,
+      "duration" : 8997
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "when password should e at least six chars long",
+    "uid" : "d4f16e939980c286",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1493065149229,
+      "stop" : 1493065158185,
+      "duration" : 8956
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "when user not fill username and password",
+    "uid" : "fd0ce63043401229",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1493065158185,
+      "stop" : 1493065167062,
+      "duration" : 8877
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  } ]
+}

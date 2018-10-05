@@ -1,0 +1,168 @@
+{
+  "summary" : {
+    "reportName" : "Allure Report",
+    "testRuns" : [ ],
+    "statistic" : {
+      "failed" : 24,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 11,
+      "unknown" : 0,
+      "total" : 35
+    },
+    "time" : {
+      "start" : 1493064953958,
+      "stop" : 1493065167062,
+      "duration" : 213104,
+      "minDuration" : 1706,
+      "maxDuration" : 10010,
+      "sumDuration" : 213067
+    }
+  },
+  "environment" : [ ],
+  "suites" : {
+    "total" : 10,
+    "items" : [ {
+      "uid" : "01d57ecab903e7d6943694f0e25b972e",
+      "name" : "CRM Login",
+      "statistic" : {
+        "failed" : 6,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 1,
+        "unknown" : 0,
+        "total" : 7
+      }
+    }, {
+      "uid" : "15385f31058c39986c66fb87805cd67f",
+      "name" : "CRM Setup should have user credentials",
+      "statistic" : {
+        "failed" : 5,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 5
+      }
+    }, {
+      "uid" : "859fb986d9282c111e24d6b5a7736399",
+      "name" : "Phone System choice a Phone System IP and save user credentials",
+      "statistic" : {
+        "failed" : 4,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 1,
+        "unknown" : 0,
+        "total" : 5
+      }
+    }, {
+      "uid" : "59835f10ffd6e7bc8559198f7cd2d3bc",
+      "name" : "CRM Setup choice a CRM and save user credentials",
+      "statistic" : {
+        "failed" : 3,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 1,
+        "unknown" : 0,
+        "total" : 4
+      }
+    }, {
+      "uid" : "f12f8535823e368e3c1368c0acd4bec0",
+      "name" : "CRM Setup check if save button is displayed",
+      "statistic" : {
+        "failed" : 2,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 3,
+        "unknown" : 0,
+        "total" : 5
+      }
+    }, {
+      "uid" : "96013fbb239bf110433ec5e955383864",
+      "name" : "Phone System should not have user credentials",
+      "statistic" : {
+        "failed" : 2,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 2
+      }
+    }, {
+      "uid" : "1e844abcbe5c2766066e607c8a0810b5",
+      "name" : "Phone System should have user credentials",
+      "statistic" : {
+        "failed" : 1,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 3,
+        "unknown" : 0,
+        "total" : 4
+      }
+    }, {
+      "uid" : "c537be059c2a20e0f46797135ddfb98e",
+      "name" : "e2e tests Check review page on select CRM options",
+      "statistic" : {
+        "failed" : 1,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 1
+      }
+    }, {
+      "uid" : "f431a67ac839e741af3ffb39ab5c8670",
+      "name" : "CRM Setup",
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 1,
+        "unknown" : 0,
+        "total" : 1
+      }
+    }, {
+      "uid" : "ea7e1ad131c458924a040b8d463a0539",
+      "name" : "Phone System",
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 1,
+        "unknown" : 0,
+        "total" : 1
+      }
+    } ]
+  },
+  "history-trend" : [ {
+    "statistic" : {
+      "failed" : 24,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 11,
+      "unknown" : 0,
+      "total" : 35
+    }
+  } ],
+  "behaviors" : {
+    "total" : 35,
+    "items" : [ ]
+  },
+  "executors" : [ ],
+  "categories" : {
+    "total" : 1,
+    "items" : [ {
+      "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d",
+      "name" : "Product defects",
+      "statistic" : {
+        "failed" : 24,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 24
+      }
+    } ]
+  },
+  "launches" : [ ]
+}

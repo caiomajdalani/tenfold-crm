@@ -1,0 +1,351 @@
+[ {
+  "uid" : "63c2f7aa0471c7e9",
+  "name" : "with success",
+  "time" : {
+    "start" : 1493065013918,
+    "stop" : 1493065019249,
+    "duration" : 5331
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8ea700e0e30ef199",
+  "name" : "when user fill incorrect email",
+  "time" : {
+    "start" : 1493065019249,
+    "stop" : 1493065024585,
+    "duration" : 5336
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "3ae39b6fb30bd6f8",
+  "name" : "with success",
+  "time" : {
+    "start" : 1493065035048,
+    "stop" : 1493065044540,
+    "duration" : 9492
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "d4f16e939980c286",
+  "name" : "when password should e at least six chars long",
+  "time" : {
+    "start" : 1493065149229,
+    "stop" : 1493065158185,
+    "duration" : 8956
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "b4447b6203bb9d16",
+  "name" : "when select Salesforce",
+  "time" : {
+    "start" : 1493064987359,
+    "stop" : 1493064992794,
+    "duration" : 5435
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "59e6dc0d66d03a5c",
+  "name" : "when select Asterisk and type IP",
+  "time" : {
+    "start" : 1493065066132,
+    "stop" : 1493065075885,
+    "duration" : 9753
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a55645b5d94802a",
+  "name" : "when select Sugar",
+  "time" : {
+    "start" : 1493064972031,
+    "stop" : 1493064977143,
+    "duration" : 5112
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "2e1a84828b711ceb",
+  "name" : "when select Dynamics",
+  "time" : {
+    "start" : 1493065008883,
+    "stop" : 1493065013914,
+    "duration" : 5031
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "6683bc34a948b0a6",
+  "name" : "when select Zoho",
+  "time" : {
+    "start" : 1493064992794,
+    "stop" : 1493064998166,
+    "duration" : 5372
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "442d6a92b8dcff38",
+  "name" : "when select Mondago and type IP",
+  "time" : {
+    "start" : 1493065094111,
+    "stop" : 1493065104033,
+    "duration" : 9922
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "322d0b1247255ff3",
+  "name" : "when select Dynamics",
+  "time" : {
+    "start" : 1493064982226,
+    "stop" : 1493064987350,
+    "duration" : 5124
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "8d190d2a7131eb4",
+  "name" : "when IP is a string",
+  "time" : {
+    "start" : 1493065104037,
+    "stop" : 1493065113694,
+    "duration" : 9657
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "afa1fda54931f4fa",
+  "name" : "when select Broadsoft and type IP",
+  "time" : {
+    "start" : 1493065075885,
+    "stop" : 1493065084277,
+    "duration" : 8392
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "2b581ce1a54a7e05",
+  "name" : "when select Salesforce",
+  "time" : {
+    "start" : 1493064961405,
+    "stop" : 1493064966821,
+    "duration" : 5416
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "7a5749db6468922d",
+  "name" : "when user not fill user and password",
+  "time" : {
+    "start" : 1493065029915,
+    "stop" : 1493065035043,
+    "duration" : 5128
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "1b129a423c76bcf1",
+  "name" : "when select Oracle",
+  "time" : {
+    "start" : 1493065003531,
+    "stop" : 1493065008883,
+    "duration" : 5352
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d9c63705d2903a8f",
+  "name" : "should Phone System list",
+  "time" : {
+    "start" : 1493065057410,
+    "stop" : 1493065066131,
+    "duration" : 8721
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a6dd9ee5b14dffc3",
+  "name" : "when select Oracle",
+  "time" : {
+    "start" : 1493064977143,
+    "stop" : 1493064982225,
+    "duration" : 5082
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "d5194ea48a594486",
+  "name" : "when user not fill password",
+  "time" : {
+    "start" : 1493065052061,
+    "stop" : 1493065053857,
+    "duration" : 1796
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "2344ddedf1b4d759",
+  "name" : "when invalid IP",
+  "time" : {
+    "start" : 1493065113694,
+    "stop" : 1493065123704,
+    "duration" : 10010
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "7497bf639d5f66ce",
+  "name" : "when select Generic SIP and type IP",
+  "time" : {
+    "start" : 1493065084277,
+    "stop" : 1493065094111,
+    "duration" : 9834
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b545bdd8bf9a60c2",
+  "name" : "when password should e at least six chars long",
+  "time" : {
+    "start" : 1493065055564,
+    "stop" : 1493065057407,
+    "duration" : 1843
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "ab01816aac561712",
+  "name" : "when password should e at least six chars long",
+  "time" : {
+    "start" : 1493065024585,
+    "stop" : 1493065029915,
+    "duration" : 5330
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "26568a0851bce0fc",
+  "name" : "when user not registered",
+  "time" : {
+    "start" : 1493065048482,
+    "stop" : 1493065050283,
+    "duration" : 1801
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "86fcd06d68485c98",
+  "name" : "when user fill incorrect email",
+  "time" : {
+    "start" : 1493065140232,
+    "stop" : 1493065149229,
+    "duration" : 8997
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "d97289b8ad448176",
+  "name" : "when user fill incorrect password",
+  "time" : {
+    "start" : 1493065046633,
+    "stop" : 1493065048482,
+    "duration" : 1849
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "e162b0a2d7f442fe",
+  "name" : "when user back for CRM Setup Page",
+  "time" : {
+    "start" : 1493065131131,
+    "stop" : 1493065140231,
+    "duration" : 9100
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c0f09d1f0e4f72f4",
+  "name" : "when user not fill user and password",
+  "time" : {
+    "start" : 1493065053858,
+    "stop" : 1493065055564,
+    "duration" : 1706
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "934bdc96b7c13ca",
+  "name" : "when select Sugar",
+  "time" : {
+    "start" : 1493064998166,
+    "stop" : 1493065003531,
+    "duration" : 5365
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "7a04537cff31494",
+  "name" : "when select Zoho",
+  "time" : {
+    "start" : 1493064966821,
+    "stop" : 1493064972031,
+    "duration" : 5210
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "488b0082126624a5",
+  "name" : "successfully login",
+  "time" : {
+    "start" : 1493065044542,
+    "stop" : 1493065046632,
+    "duration" : 2090
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5ca9670064e94f66",
+  "name" : "should have CRMs list",
+  "time" : {
+    "start" : 1493064953958,
+    "stop" : 1493064961404,
+    "duration" : 7446
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fd0ce63043401229",
+  "name" : "when user not fill username and password",
+  "time" : {
+    "start" : 1493065158185,
+    "stop" : 1493065167062,
+    "duration" : 8877
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "d47f1aecb993236b",
+  "name" : "when user not fill e-email",
+  "time" : {
+    "start" : 1493065050283,
+    "stop" : 1493065052061,
+    "duration" : 1778
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "3a3036f043affa97",
+  "name" : "with success",
+  "time" : {
+    "start" : 1493065123708,
+    "stop" : 1493065131131,
+    "duration" : 7423
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]

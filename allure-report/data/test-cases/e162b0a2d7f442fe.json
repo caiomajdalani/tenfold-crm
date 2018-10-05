@@ -1,0 +1,68 @@
+{
+  "uid" : "e162b0a2d7f442fe",
+  "name" : "when user back for CRM Setup Page",
+  "fullName" : "Phone System choice a Phone System IP and save user credentials.when user back for CRM Setup Page",
+  "historyId" : "bb186c031b9d0e7e71886c7959e3b344",
+  "time" : {
+    "start" : 1493065131131,
+    "stop" : 1493065140231,
+    "duration" : 9100
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : false
+  },
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5da0212ce39bba25",
+      "name" : "Screenshot",
+      "source" : "5da0212ce39bba25.png",
+      "type" : "image/png",
+      "size" : 34552
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Phone System choice a Phone System IP and save user credentials"
+  }, {
+    "name" : "testClass",
+    "value" : "Phone System choice a Phone System IP and save user credentials"
+  }, {
+    "name" : "testMethod",
+    "value" : "when user back for CRM Setup Page"
+  }, {
+    "name" : "package",
+    "value" : "Phone System choice a Phone System IP and save user credentials"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "statusDetailsSafe" : {
+    "flaky" : false
+  },
+  "statusMessage" : {
+    "present" : false
+  },
+  "source" : "e162b0a2d7f442fe.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,81 @@
+{
+  "uid" : "afa1fda54931f4fa",
+  "name" : "when select Broadsoft and type IP",
+  "fullName" : "Phone System should have user credentials.when select Broadsoft and type IP",
+  "historyId" : "a6991716918f21c4b96127c8162aa1ab",
+  "time" : {
+    "start" : 1493065075885,
+    "stop" : 1493065084277,
+    "duration" : 8392
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusDetails" : {
+    "message" : "Failed: No element found using locator: By(css selector, ng-select[id=phonesystem])",
+    "trace" : "NoSuchElementError: No element found using locator: By(css selector, ng-select[id=phonesystem])\n    at WebDriverError (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/error.js:27:5)\n    at NoSuchElementError (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/error.js:168:5)\n    at elementArrayFinder.getWebElements.then (/usr/local/lib/node_modules/protractor/lib/element.ts:851:17)\n    at ManagedPromise.invokeCallback_ (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:1366:14)\n    at TaskQueue.execute_ (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2970:14)\n    at TaskQueue.executeNext_ (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2953:27)\n    at asyncRun (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2813:27)\n    at /usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:676:7\n    at process._tickCallback (internal/process/next_tick.js:103:7)Error\n    at ElementArrayFinder.applyAction_ (/usr/local/lib/node_modules/protractor/lib/element.ts:482:23)\n    at ElementArrayFinder.(anonymous function) [as click] (/usr/local/lib/node_modules/protractor/lib/element.ts:96:21)\n    at ElementFinder.(anonymous function) [as click] (/usr/local/lib/node_modules/protractor/lib/element.ts:873:14)\n    at PhoneSystem.getOptions (/Users/fernandosqa/Projects/tenfold/qa-engineer-test/tenfold-crm/pages/phoneSystem.po.js:17:17)\n    at PhoneSystem.selectOption (/Users/fernandosqa/Projects/tenfold/qa-engineer-test/tenfold-crm/pages/phoneSystem.po.js:23:10)\n    at Object.it (/Users/fernandosqa/Projects/tenfold/qa-engineer-test/tenfold-crm/spec/phoneSystem.spec.js:49:19)\n    at /usr/local/lib/node_modules/protractor/node_modules/jasminewd2/index.js:110:25\n    at new ManagedPromise (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:1067:7)\n    at ControlFlow.promise (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2396:12)\n    at schedulerExecute (/usr/local/lib/node_modules/protractor/node_modules/jasminewd2/index.js:95:18)\nFrom: Task: Run it(\"when select Broadsoft and type IP\") in control flow\n    at Object.<anonymous> (/usr/local/lib/node_modules/protractor/node_modules/jasminewd2/index.js:94:19)\n    at attemptAsync (/usr/local/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1980:24)\n    at QueueRunner.run (/usr/local/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1935:9)\n    at /usr/local/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1962:16\n    at /usr/local/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1905:9\n    at /usr/local/lib/node_modules/protractor/node_modules/jasminewd2/index.js:64:48\n    at ControlFlow.emit (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/events.js:62:21)\n    at ControlFlow.shutdown_ (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2565:10)\n    at shutdownTask_.MicroTask (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2490:53)\n    at MicroTask.asyncRun (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2619:9)\nFrom asynchronous test: \nError\n    at Suite.describe (/Users/fernandosqa/Projects/tenfold/qa-engineer-test/tenfold-crm/spec/phoneSystem.spec.js:48:5)\n    at addSpecsToSuite (/usr/local/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:867:25)\n    at Env.describe (/usr/local/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:836:7)\n    at describe (/usr/local/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:3576:18)\n    at Suite.describe (/Users/fernandosqa/Projects/tenfold/qa-engineer-test/tenfold-crm/spec/phoneSystem.spec.js:41:3)\n    at addSpecsToSuite (/usr/local/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:867:25)\n    at Env.describe (/usr/local/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:836:7)\n    at describe (/usr/local/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:3576:18)\n    at Object.<anonymous> (/Users/fernandosqa/Projects/tenfold/qa-engineer-test/tenfold-crm/spec/phoneSystem.spec.js:11:1)",
+    "flaky" : false
+  },
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusDetails" : {
+      "message" : "Failed: No element found using locator: By(css selector, ng-select[id=phonesystem])",
+      "trace" : "NoSuchElementError: No element found using locator: By(css selector, ng-select[id=phonesystem])\n    at WebDriverError (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/error.js:27:5)\n    at NoSuchElementError (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/error.js:168:5)\n    at elementArrayFinder.getWebElements.then (/usr/local/lib/node_modules/protractor/lib/element.ts:851:17)\n    at ManagedPromise.invokeCallback_ (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:1366:14)\n    at TaskQueue.execute_ (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2970:14)\n    at TaskQueue.executeNext_ (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2953:27)\n    at asyncRun (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2813:27)\n    at /usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:676:7\n    at process._tickCallback (internal/process/next_tick.js:103:7)Error\n    at ElementArrayFinder.applyAction_ (/usr/local/lib/node_modules/protractor/lib/element.ts:482:23)\n    at ElementArrayFinder.(anonymous function) [as click] (/usr/local/lib/node_modules/protractor/lib/element.ts:96:21)\n    at ElementFinder.(anonymous function) [as click] (/usr/local/lib/node_modules/protractor/lib/element.ts:873:14)\n    at PhoneSystem.getOptions (/Users/fernandosqa/Projects/tenfold/qa-engineer-test/tenfold-crm/pages/phoneSystem.po.js:17:17)\n    at PhoneSystem.selectOption (/Users/fernandosqa/Projects/tenfold/qa-engineer-test/tenfold-crm/pages/phoneSystem.po.js:23:10)\n    at Object.it (/Users/fernandosqa/Projects/tenfold/qa-engineer-test/tenfold-crm/spec/phoneSystem.spec.js:49:19)\n    at /usr/local/lib/node_modules/protractor/node_modules/jasminewd2/index.js:110:25\n    at new ManagedPromise (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:1067:7)\n    at ControlFlow.promise (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2396:12)\n    at schedulerExecute (/usr/local/lib/node_modules/protractor/node_modules/jasminewd2/index.js:95:18)\nFrom: Task: Run it(\"when select Broadsoft and type IP\") in control flow\n    at Object.<anonymous> (/usr/local/lib/node_modules/protractor/node_modules/jasminewd2/index.js:94:19)\n    at attemptAsync (/usr/local/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1980:24)\n    at QueueRunner.run (/usr/local/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1935:9)\n    at /usr/local/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1962:16\n    at /usr/local/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1905:9\n    at /usr/local/lib/node_modules/protractor/node_modules/jasminewd2/index.js:64:48\n    at ControlFlow.emit (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/events.js:62:21)\n    at ControlFlow.shutdown_ (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2565:10)\n    at shutdownTask_.MicroTask (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2490:53)\n    at MicroTask.asyncRun (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2619:9)\nFrom asynchronous test: \nError\n    at Suite.describe (/Users/fernandosqa/Projects/tenfold/qa-engineer-test/tenfold-crm/spec/phoneSystem.spec.js:48:5)\n    at addSpecsToSuite (/usr/local/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:867:25)\n    at Env.describe (/usr/local/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:836:7)\n    at describe (/usr/local/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:3576:18)\n    at Suite.describe (/Users/fernandosqa/Projects/tenfold/qa-engineer-test/tenfold-crm/spec/phoneSystem.spec.js:41:3)\n    at addSpecsToSuite (/usr/local/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:867:25)\n    at Env.describe (/usr/local/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:836:7)\n    at describe (/usr/local/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:3576:18)\n    at Object.<anonymous> (/Users/fernandosqa/Projects/tenfold/qa-engineer-test/tenfold-crm/spec/phoneSystem.spec.js:11:1)",
+      "flaky" : false
+    },
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "4df8bcc720611cbe",
+      "name" : "Screenshot",
+      "source" : "4df8bcc720611cbe.png",
+      "type" : "image/png",
+      "size" : 37505
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Phone System should have user credentials"
+  }, {
+    "name" : "testClass",
+    "value" : "Phone System should have user credentials"
+  }, {
+    "name" : "testMethod",
+    "value" : "when select Broadsoft and type IP"
+  }, {
+    "name" : "package",
+    "value" : "Phone System should have user credentials"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "statusDetailsSafe" : {
+    "message" : "Failed: No element found using locator: By(css selector, ng-select[id=phonesystem])",
+    "trace" : "NoSuchElementError: No element found using locator: By(css selector, ng-select[id=phonesystem])\n    at WebDriverError (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/error.js:27:5)\n    at NoSuchElementError (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/error.js:168:5)\n    at elementArrayFinder.getWebElements.then (/usr/local/lib/node_modules/protractor/lib/element.ts:851:17)\n    at ManagedPromise.invokeCallback_ (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:1366:14)\n    at TaskQueue.execute_ (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2970:14)\n    at TaskQueue.executeNext_ (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2953:27)\n    at asyncRun (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2813:27)\n    at /usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:676:7\n    at process._tickCallback (internal/process/next_tick.js:103:7)Error\n    at ElementArrayFinder.applyAction_ (/usr/local/lib/node_modules/protractor/lib/element.ts:482:23)\n    at ElementArrayFinder.(anonymous function) [as click] (/usr/local/lib/node_modules/protractor/lib/element.ts:96:21)\n    at ElementFinder.(anonymous function) [as click] (/usr/local/lib/node_modules/protractor/lib/element.ts:873:14)\n    at PhoneSystem.getOptions (/Users/fernandosqa/Projects/tenfold/qa-engineer-test/tenfold-crm/pages/phoneSystem.po.js:17:17)\n    at PhoneSystem.selectOption (/Users/fernandosqa/Projects/tenfold/qa-engineer-test/tenfold-crm/pages/phoneSystem.po.js:23:10)\n    at Object.it (/Users/fernandosqa/Projects/tenfold/qa-engineer-test/tenfold-crm/spec/phoneSystem.spec.js:49:19)\n    at /usr/local/lib/node_modules/protractor/node_modules/jasminewd2/index.js:110:25\n    at new ManagedPromise (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:1067:7)\n    at ControlFlow.promise (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2396:12)\n    at schedulerExecute (/usr/local/lib/node_modules/protractor/node_modules/jasminewd2/index.js:95:18)\nFrom: Task: Run it(\"when select Broadsoft and type IP\") in control flow\n    at Object.<anonymous> (/usr/local/lib/node_modules/protractor/node_modules/jasminewd2/index.js:94:19)\n    at attemptAsync (/usr/local/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1980:24)\n    at QueueRunner.run (/usr/local/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1935:9)\n    at /usr/local/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1962:16\n    at /usr/local/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1905:9\n    at /usr/local/lib/node_modules/protractor/node_modules/jasminewd2/index.js:64:48\n    at ControlFlow.emit (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/events.js:62:21)\n    at ControlFlow.shutdown_ (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2565:10)\n    at shutdownTask_.MicroTask (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2490:53)\n    at MicroTask.asyncRun (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2619:9)\nFrom asynchronous test: \nError\n    at Suite.describe (/Users/fernandosqa/Projects/tenfold/qa-engineer-test/tenfold-crm/spec/phoneSystem.spec.js:48:5)\n    at addSpecsToSuite (/usr/local/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:867:25)\n    at Env.describe (/usr/local/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:836:7)\n    at describe (/usr/local/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:3576:18)\n    at Suite.describe (/Users/fernandosqa/Projects/tenfold/qa-engineer-test/tenfold-crm/spec/phoneSystem.spec.js:41:3)\n    at addSpecsToSuite (/usr/local/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:867:25)\n    at Env.describe (/usr/local/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:836:7)\n    at describe (/usr/local/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:3576:18)\n    at Object.<anonymous> (/Users/fernandosqa/Projects/tenfold/qa-engineer-test/tenfold-crm/spec/phoneSystem.spec.js:11:1)",
+    "flaky" : false
+  },
+  "statusMessage" : {
+    "present" : true
+  },
+  "source" : "afa1fda54931f4fa.json",
+  "parameterValues" : [ ]
+}
